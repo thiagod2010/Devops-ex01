@@ -38,3 +38,8 @@ Notificações de dia de rodízio - É verificado todos os dias, no horário det
 
 Paulo Henrique Ferreira RA 1801918
 
+Dias da semana - É apresentada na tela uma lista com os dias subsequentes, informando os que contém rodízio e os finais das placas correspondentes a tal.
+Notificações de dia de rodízio - É verificado todos os dias, no horário determinado pela solicitação (06:30, 8:30 e 16:30) se há rodízio naquela data. 
+
+Anderson Douglas de Oliveira Santos RA: 1801458
+
