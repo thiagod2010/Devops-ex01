@@ -13,3 +13,7 @@ O alerta deverá ser feito através de um alarme sonoro e com vibração no smar
 Os requisitos do smartphone para utilização do app são: GPS, Acesso à internet, memória disponível, Sistema Android atualizado.
 
 O Aplicativo deve ter a interface simples, para uma rápida utilização do mesmo e posteriormente poder utiliza-lo em "segundo plano". 
+
+Guilherme Dias Martins
+RA:1801611
+
