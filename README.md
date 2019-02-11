@@ -33,3 +33,8 @@ Cadastro da placa - Após a inserção dos dados no formulário de cadastro (Nom
 
 Flavio Paschoal Urquidi RA 1801895
 
+Dias da semana - É apresentada na tela uma lista com os dias subsequentes, informando os que contém rodízio e os finais das placas correspondentes a tal.
+Notificações de dia de rodízio - É verificado todos os dias, no horário determinado pela solicitação (06:30, 8:30 e 16:30) se há rodízio naquela data.
+
+Paulo Henrique Ferreira RA 1801918
+
