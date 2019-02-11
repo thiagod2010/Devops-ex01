@@ -26,3 +26,10 @@ Notificação de Rodízio - Este alerta se dará quando a Placa Cadastrada bater
 Notificação de Área de Rodízio - Este alerta se dará quando o usuário estiver próximo a uma área de Rodízio, o usuário poderá visualizar esta notificação via push na tela do Celular. A mensagem conterá os dizeres "Você está próximo a uma área de risco de rodízio!" Acompanhado de um ícone de exclamação.
 
 Gabriel Lima dos Santos. RA: 1801017
+
+# Codificação:
+
+Cadastro da placa - Após a inserção dos dados no formulário de cadastro (Nome, RG/CPF, Placa e Modelo) os mesmos são validados e caso correspondam as solicitações do formulário são inseridos no banco de dados do aplicativo para futuras consultas.
+
+Flavio Paschoal Urquidi RA 1801895
+
